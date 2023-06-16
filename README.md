@@ -1,4 +1,8 @@
+
 # Interactive-LHC-analysis
+
+[![DOI](https://zenodo.org/badge/653583030.svg)](https://zenodo.org/badge/latestdoi/653583030)
+
 Interactive LHC analysis using jupyter notebooks 
 
 Author: Aman Desai
